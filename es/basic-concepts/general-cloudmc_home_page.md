@@ -3,29 +3,22 @@ title: "Página de inicio"
 slug: general-tigomco-pagina-de-inicio
 ---
 
+La página de inicio de TIGO MCO es la página predeterminada que se le presenta a todo usuario cuando inicia sesión en el sistema.
 
-La página de inicio de Tigo MCO es la página predeterminada que se le presenta a un usuario cuando inicia sesión en el sistema.
+![Captura de pantalla de la página de inicio de TIGO MCO, con puntos numerados que resaltan las funciones de interés](/assets/general-cmc-ui-home-en.png)
 
-![Captura de pantalla de la página de inicio de TigoMC, con puntos numerados que resaltan las funciones de interés](/assets/general-cmc-ui-home-en.png)
+1.  **Barra de menús**
 
-1.  **El espacio de trabajo**
+    En la parte superior se muestra la barra de menú la cual está disponible en todo momento. En ella encontrarás todas las funciones de la plataforma agrupadas en categorías, tal como servicios, activades, informes, enter otros. Podrás interactuar con ellas en todo momento mientras tengas una sesión activia den la plataforma. Las opciones se ajustan a cada usuario dependiendo del rol y privilegios que tenga asignados.
 
-    El espacio de trabajo es la sección principal de todas las pantallas de CloudMC. Los elementos que son visibles en el espacio de trabajo están determinados por el contexto de su ubicación en el sistema. Por ejemplo, en la página de inicio que se muestra aquí, puedes encontrar el mapa de servicios, el panel de acceso rápido, así como resúmenes del estado del sistema y la actividad reciente.
+2.  **Espacio de trabajo**
 
-2.  **La barra lateral**
+    El espacio de trabajo es la sección principal de todas las pantallas de TIGO MCO. Los elementos que son visibles en el espacio de trabajo están determinados por el contexto de tu ubicación en el sistema. Por ejemplo, en la página de inicio que se muestra aquí, puedes encontrar el mapa de servicios, el estado del sistema y la actividad reciente.
 
-    La barra lateral está en el lado izquierdo de cualquier pantalla de CloudMC. La barra lateral es donde puedes navegar a todas las funciones principales del sistema, incluidas las conexiones de servicio, los informes, los registros de actividad y la administración.
+3.  **Selector de organización**
 
-3.  **El selector de organización**
+    TIGO MCO es una plataforma que permite gestión de múltiples organizaciones agrupadas en una sola organización principal, por ejemplo, una empresa multinacional puede contar con sub-organizaciones asociadas a ubicaciones geográficas. El selector de organizaciones te permite navegar entre las organizaciones y suborganizaciones a las que tienes acceso.
 
-    CloudMC es una plataforma multiinquilino. Utiliza el selector de organizaciones para navegar entre las organizaciones y suborganizaciones a las que tienes acceso. Ten en cuenta que la marca de la interfaz de usuario puede cambiar cuando cambia a una organización diferente.
+4. **Opciones de control**
 
-4.  **La barra de menús**
-
-    En la parte superior de todas las pantallas se encuentra la barra de menú. El lado derecho de la barra de menú contiene tres elementos: el menú de ayuda, el menú de notificaciones y el menú de usuario.
-
-5.  **El gadget de contracción**
-
-    Haz clic en el gadget de contracción para minimizar la barra lateral. Esto hará que haya más espacio disponible para el espacio de trabajo. Los elementos de la barra lateral seguirán estando visibles a través de sus iconos.
-
-
+    En el lado derecho de la barra de menú se ubcian tres elementos: el menú de ayuda, el menú de notificaciones y el menú de usuario. Bajo estos elementos podrás recibir mensajes de tus tareas de aprovisionamiento o mensajaes importantes emitidos por TIGO, acceder a la base de datos de conocimiento, gestionar tus datos personales y cerrar sesión en la plataforma.

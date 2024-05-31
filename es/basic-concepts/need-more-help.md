@@ -3,13 +3,17 @@ title: "¿Necesitas más ayuda?"
 slug: necesitas-mas-ayuda
 ---
 
+¿No pudiste encontrar lo que buscabas en estos artículos de ayuda o tuviste algún inconveniente?
+Siempre podemos ayudarte con tu solicitud.
 
-¿No pudiste encontrar lo que buscabas en estos artículos de ayuda o tuviste un inconveniente? Asegúrate de informarnos y podemos ayudarte con tu solicitud. Simplemente vete al menú del *Centro de ayuda* en la parte superior de la página y haz clic en *Contactar al soporte*:
+## Portales de ayuda por país.
 
-![Centro de ayuda](../../assets/need-more-help-1-es.png)
-
-Te dirigirá a una nueva pestaña donde puedes abrir un ticket de soporte:
-
-![Página de contactar al soporte](../../assets/need-more-help-2-es.png)
-
-Provee una breve descripción del problema en el campo llamado **Título**, el nivel de impacto de su servicio en el campo **Prioridad** y en el campo **Descripción** un resumen claro del problema también como el resultado deseado. Nuestro equipo de soporte te dará una respuesta lo antes posible.
+[Bolivia](https://ayuda.tigo.com.bo/hc/es)
+[Colombia](https://ayuda.tigo.com.co/hc/es)
+[Costa Rica](https://ayuda.tigo.co.cr/hc/es)
+[EL Salvador](https://ayuda.tigo.com.sv/hc/es)
+[Guatemala](https://ayuda.tigo.com.gt/hc/es)
+[Honduras](https://ayuda.tigo.com.hn/hc/es)
+[Nicaragua](https://ayuda.tigo.com.ni/hc/es)
+[Panamá](https://ayuda.tigo.com.pa/hc/es)
+[Paraguay](https://ayuda.tigo.com.py/hc/es)

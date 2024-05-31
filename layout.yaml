@@ -6,8 +6,16 @@ categories:
       - cloud.ca-in-a-nutshell.md
       - general-cloudmc_home_page.md
       - main-cloudmc-entities.md
-      - environments-to-organize-workloads-and-users.md
       - need-more-help.md
+- category: vmware-compute-service
+  icon: fa fa-cloud
+  articles:
+      - vmware-service-overview.md
+      - vmware-networking.md
+      - vmware-virtual-machines.md
+      - vmware-virtual-applications.md
+      - vmware-add-a-network.md
+      - vmware-add-a-virtual-machine.md
 - category: aws-compute-service
   icon: fa fa-cloud
   articles:
@@ -26,15 +34,6 @@ categories:
       - aws-add_a_subnetwork.md
       - aws-add_an_instance.md
       - aws-add_a_volume.md
-- category: vmware-compute-service
-  icon: fa fa-cloud
-  articles:
-      - vmware-service-overview.md
-      - vmware-networking.md
-      - vmware-virtual-machines.md
-      - vmware-virtual-applications.md
-      - vmware-add-a-network.md
-      - vmware-add-a-virtual-machine.md
 - category: reporting
   icon: fa fa-signal
   articles:
