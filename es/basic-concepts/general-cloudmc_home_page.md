@@ -1,12 +1,12 @@
 ---
-title: "Página de inicio de CloudMC"
-slug: general-cloudmc-pagina-de-inicio
+title: "Página de inicio"
+slug: general-tigomco-pagina-de-inicio
 ---
 
 
-La página de inicio de CloudMC es la página predeterminada que se le presenta a un usuario cuando inicia sesión en el sistema.
+La página de inicio de Tigo MCO es la página predeterminada que se le presenta a un usuario cuando inicia sesión en el sistema.
 
-![Captura de pantalla de la página de inicio de CloudMC, con puntos numerados que resaltan las funciones de interés](/assets/general-cmc-ui-home-en.png)
+![Captura de pantalla de la página de inicio de TigoMC, con puntos numerados que resaltan las funciones de interés](/assets/general-cmc-ui-home-en.png)
 
 1.  **El espacio de trabajo**
 
