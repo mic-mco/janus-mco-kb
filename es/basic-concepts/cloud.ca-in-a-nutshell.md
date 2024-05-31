@@ -1,27 +1,19 @@
 ---
-title:  "CloudMC en breve"
-slug: cloudmc-en-breve
+title:  "Tigo MCO en breve"
+slug: tigomco-en-breve
 ---
 
-### ¿Qué es CloudMC?
+### ¿Qué es Tigo MCO?
 
-CloudMC es una plataforma de orquestación de borde en la nube. Ofrece servicios en la nube escalables, seguros, de alto rendimiento, rentables y resistentes.
+Tigo MCO es una plataforma robusta de orquestación de servicios en la nube. Mediante un único portal puedes gestionar tus cargas de trabajo en diferentes nubes incluyendo Tigo Cloud 360, AWS y Azure. Trabaja y despliega serividores virtuales o instancias EC2.
 
-### ¿Por qué CloudMC?
+### ¿Beneficios y ventajas?
 
-- **Acelere tu innovación**: plataforma de autoservicio bajo demanda para DevOps, con automatización API completa para entrega continua
-- **Transparencia en el uso y los costos**: la medición y los informes granulares hacen posible la gobernanza sin burocracia
+- **Ahorro en costos**: evita grandes inversiones en infraestructura, licenciamiento y personal técnico especializado por medio de pagos mensuales en modalidad de servicio.
+- **Flexibilidad**: permite a las empresas contratar y disponer de los recursos de cómputo (vCPU/vRAM) y almacenamiento de acuerdo sus necesidades específicas.
 
-### Ventajas
+### Características
 
-Para la innovación:
-
-- **Portal de autoservicio intuitivo con RBAC avanzado** para la colaboración en equipo
-- **Centrado en entornos**, por ejemplo, desarrollo, pruebas, control de calidad, pre-producción y producción
-- **API de código abierto** que admiten la automatización de DevOps y la entrega continua
-
-Por transparencia:
-
-- **Facturación de servicios públicos** (tarifas por hora)
-- **Informes de uso detallado** por entorno
-- **Capacidades de gobernanza** (RBAC, presupuestos, cuotas, etc.)
+- **Portal de autoservicio intuitivo** para la colaboración en equipo
+- **Centrado en entornos**, genera centros de datos virtuales o importa cuentas AWS
+- **API de código abierto** que facilita la automatización y la entrega continua
