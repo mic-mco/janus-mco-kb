@@ -1,3 +1,3 @@
 ---
-name: VMware Cloud Director
+name: TIGO Cloud 360
 ---

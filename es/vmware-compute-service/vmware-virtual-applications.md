@@ -1,12 +1,11 @@
 ---
-title: "VMware: Aplicaciones virtuales"
-slug: vmware-vapps
+title: "Cloud 360: Aplicaciones virtuales"
+slug: cloud360-vapps
 ---
 
+Una aplicación virtual es un contenedor de máquinas virtuales que proporciona la infraestructura para una aplicación nativa de la nube. Este artículo analiza el concepto de aplicaciones virtuales y cómo se administran en TIGO MCO.
 
-Una aplicación virtual es un contenedor de máquinas virtuales que proporciona la infraestructura para una aplicación nativa de la nube. Este artículo analiza el concepto de aplicaciones virtuales y cómo se administran en CloudMC.
-
-Las aplicaciones virtuales se enumeran en la sección **Aplicaciones virtuales** del entorno VMware seleccionado.
+Las aplicaciones virtuales se enumeran en la sección **Aplicaciones virtuales** del entorno (VDC) TIGO Cloud 360 seleccionado.
 
 ## Descripción detallada
 
@@ -16,7 +15,7 @@ Se crea una aplicación virtual con su propia red, lo que permite que las máqui
 
 ## Estados de aplicaciones virtuales
 
--   **Encendida**
+- **Encendida**
 
      Todas las máquinas virtuales asignadas a esta aplicación virtual están encendidas.
 
@@ -28,16 +27,15 @@ Se crea una aplicación virtual con su propia red, lo que permite que las máqui
 
      Una o más máquinas virtuales asignadas a esta aplicación virtual están suspendidas o apagadas.
 
-
 ## Lista de aplicaciones virtuales
 
-Las aplicaciones virtuales se enumeran en la sección **Aplicaciones virtuales** del entorno VMware seleccionado.
+Las aplicaciones virtuales se enumeran en la sección **Aplicaciones virtuales** del entorno (VDC) TIGO Cloud 360 seleccionado.
 
-![Una captura de pantalla de la página de aplicaciones virtuales de VMware, con puntos numerados que indican características de interés](/assets/vmware-vapps-list-en.png)
+![Una captura de pantalla de la página de aplicaciones virtuales de TIGO Cloud 360, con puntos numerados que indican características de interés](/assets/vmware-vapps-list-es.png)
 
-1.  **Lista de aplicaciones virtuales**
+1. **Lista de aplicaciones virtuales**
 
-     Aquí, en esta área, aparece una lista de todas las aplicaciones virtuales en el entorno seleccionado.
+     En esta área, aparece una lista de todas las aplicaciones virtuales en el entorno (VDC) seleccionado.
 
 2. **Cuadro de búsqueda**
 
@@ -54,4 +52,3 @@ Las aplicaciones virtuales se enumeran en la sección **Aplicaciones virtuales**
 5. **Menú de acciones ocultas**
 
      Cada entrada en la lista de aplicaciones virtuales tiene un menú de acciones ocultas. Haga clic en el menú acciones ocultas para acceder a una lista de operaciones utilizadas con frecuencia para la aplicación virtual.
-

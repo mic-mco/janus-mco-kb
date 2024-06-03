@@ -21,4 +21,4 @@ TIGO MCO ha sido diseñado bajo un modelo de agrupación jerárquica que permite
 
 ## Ver también
 
-   - [Usar entornos para organizar usuarios y cargas de trabajo](environments-to-organize-workloads-and-users.md)
+- [Usar entornos para organizar usuarios y cargas de trabajo](environments-to-organize-workloads-and-users.md)

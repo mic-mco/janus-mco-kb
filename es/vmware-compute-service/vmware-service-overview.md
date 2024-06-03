@@ -1,18 +1,29 @@
 ---
-title: "Tigo Cloud 360: Resumen de servicios"
-slug: tigocloud-resumen-de-servicios
+title: "Cloud 360: Resumen de servicios"
+slug: cloud360-resumen-de-servicios
 ---
 ## Resumen
 
-CloudMC permite a los operadores de la nube acceder y administrar la infraestructura y los recursos que se han implementado en una plataforma de prestación de servicios VMware Cloud Director. Este artículo presentará los conceptos básicos de VMware y de trabajar con los recursos de VMWare Cloud Director en CloudMC.
+Una solución hiperconvergente y completa de IaaS. Las empresas podrán elegir entre diferentes alternativas en la contratación de servicios de infraestructura en la nube de forma flexible, escalable y con diferentes modalidades de pago acorde a sus necesidades. Una solución basada en tecnología VMware.
 
 ## Descripción detallada
 
-VMware Cloud Director les da a las empresas la habilidad de crear nubes y centros de datos privados, que pueden utilizarse para implementar aplicaciones basadas en la nube. CloudMC proporciona una interfaz unificada para acceder a una plataforma VMware y otros servicios desde un único portal. A través de CloudMC, los usuarios pueden gestionar:
+**Cloud Flex.** La opción más flexible del portafolio con la que las empresas pagan únicamente por los recursos de cómputo consumidos o utilizados durante el mes. Pueden activar y desactivar servicios para ahorrar cuando no sean necesarios y volver a activarlos.
 
--   [Redes](vmware-networking.md)
--   [Máquinas virtuales](vmware-virtual-machines.md)
--   [Aplicaciones virtuales](vmware-virtual-applications.md)
--   [Almacenamiento](vmware-storage.md)
+Auto-gestione los siguientes componentes de su centro de datos virtual:
 
-Debido a que CloudMC actúa como un portal para los servicios de VMware Cloud Director, es posible que algunas operaciones parezcan comportarse de manera diferente que cuando interactúan directamente con VMware. Sin embargo, entre bastidores, todas las operaciones se ejecutan exactamente como lo harían normalmente. Los cambios realizados en las entidades de VMware en CloudMC se reflejarán inmediatamente en los recursos reales.
+- [Redes](vmware-networking.md)
+- [Máquinas virtuales](vmware-virtual-machines.md)
+- [Aplicaciones virtuales](vmware-virtual-applications.md)
+- [Almacenamiento](vmware-storage.md)
+
+**Cloud Performance.** Diseñe sus soluciones en la nube tomando de base plantillas previamente establecidas que se adaptan a las principales necesidades de las empresas. Todos los aspectos de la Infraestructura de nube estarán predefinidos
+
+## Características
+
+- Contratación de servicios en la nube de forma flexible
+- Opción de recursos predefinidos en plantillas
+- Modalidad de libre configuración y diseño
+- Servicio de IaaS bajo demanda (vCPU / vRAM)
+- Paga únicamente por los recursos en uso
+- Escalable y con diferentes modalidades de pago acorde a sus necesidades.

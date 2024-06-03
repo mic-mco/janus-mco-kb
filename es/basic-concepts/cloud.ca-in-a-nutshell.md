@@ -14,7 +14,7 @@ TIGO MCO es una plataforma robusta de orquestación de servicios en la nube. Med
 - **API de código abierto**, que facilita la automatización y la entrega continua.
 - **Acceso a reportes**, que te permiten conocer los consumos históricos y controlar tu presupuesto.
 
-## ¿Beneficios y ventajas de los servicios de Nube TIGO?
+## ¿Beneficios y ventajas de los servicios TIGO Cloud 360?
 
 - **Ahorro en costos**: evita grandes inversiones en infraestructura, licenciamiento y personal técnico especializado por medio de pagos mensuales en modalidad de servicio.
 - **Flexibilidad**: permite a las empresas contratar y disponer de los recursos de cómputo (vCPU/vRAM) y almacenamiento de acuerdo sus necesidades específicas.
