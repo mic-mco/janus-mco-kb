@@ -1,5 +1,5 @@
 ---
-title: "Las principales componentes de TIGO MCO"
+title: "Principales componentes de TIGO MCO"
 slug: principales-entidades-de-cloudmc
 ---
 

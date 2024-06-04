@@ -3,11 +3,11 @@ title: "Mostrar fechas en su zona horaria preferida"
 slug: mostrar-fechas-en-su-zona-horaria-preferida
 ---
 
+Todas las fechas en el portal de administración TIGO MCO se muestran en la zona horaria del usuario que inicia sesión. La zona horaria se obtiene de forma automática de la configuración del navegador Web pero es factible personalizarla accediendo a la página de perfil de usuario.
 
-Todas las fechas en el portal de administración se muestran en su zona horaria. Puedes personalizar tu zona horaria accediendo a tu página de perfil de usuario.
+1. Haz clic en el icono de usuario en la parte superior derecha (**Parámetros de usuario**).
+1. Ingresa a la sección *Información de la cuenta* y da clic en *Editar*.
+1. Selecciona la zona horaria correcta así como el país (en caso de ser necesario).
+1. Haz clic en *Actualizar*.
 
-1. Haz clic en el icono de usuario en la parte superior derecha de la aplicación y luego en **Mi perfil**.
-1. En la sección *Información de la cuenta*, selecciona la zona horaria correcta, y el país (si deseas).
-1. Haz clic en *Guardar*.
-
-![Zona horaria](/assets/time-zone-en-1.png)
+![Zona horaria](/assets/time-zone-es.png)

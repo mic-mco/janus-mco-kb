@@ -3,7 +3,6 @@ title: "AWS: Volúmenes"
 slug: aws-volumenes
 ---
 
-
 Un volumen en Amazon Web Services es donde puedes almacenar datos de forma permanente para usar con tus instancias. Para una instancia que se ejecuta en AWS, un volumen es indistinguible de un disco físico que está conectado al sistema. Los volúmenes residen en la infraestructura con una sola zona de disponibilidad y solo se pueden adjuntar a instancias dentro de la misma zona. La zona de disponibilidad no se puede cambiar una vez que se aprovisiona un volumen.
 
 Cada instancia tiene un volumen con un tipo de volumen de `Root` (`raíz` en español). Este volumen contiene el sistema operativo y, a menudo, contiene software adicional. No se puede iniciar una instancia sin un volumen raíz.
@@ -19,4 +18,3 @@ En algunas circunstancias, un volumen adjunto a una instancia puede configurarse
 Los volúmenes se enumeran en la pestaña **Cómputo** de su entorno de AWS, en la sección **Volúmenes**.
 
 **Tema principal:** [AWS: Cómputo](aws-compute.md)
-

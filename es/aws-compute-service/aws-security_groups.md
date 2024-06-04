@@ -3,7 +3,6 @@ title: "AWS: Grupos de seguridad"
 slug: aws-grupos-de-seguridad
 ---
 
-
 Los grupos de seguridad son conjuntos de reglas que brindan control sobre el acceso de red a tus recursos en un entorno de AWS.
 
 Al implementar una nueva instancia, el asistente **Agregar instancia** presenta tres opciones:
@@ -20,6 +19,4 @@ Al implementar una nueva instancia, el asistente **Agregar instancia** presenta 
 
      Se puede especificar una dirección IP o un bloque CIDR, protocolo y números de puerto para permitir la entrada. Ingresa un nombre y una descripción para el grupo de seguridad, o acepta los valores predeterminados, luego ingresa los criterios para el grupo.
 
-
 **Tema principal:** [AWS: Redes](aws-networking.md)
-

@@ -3,10 +3,9 @@ title: "AWS: VPCs"
 slug: aws-vpcs
 ---
 
+Una nube privada virtual, denominada VPC, es una característica estándar de la computación basada en la nube y proporciona la estructura de red donde se implementan las instancias o servidores virtuales. A una VPC se le asigna un rango de IP y puede alojar una o más subredes dentro de ese rango para, posteriormente, crear instancias según sea necesario dentro de una subred.
 
-Una nube privada virtual, denominada VPC, es una característica estándar de la computación basada en la nube y proporciona la estructura de red subyacente donde se implementan las instancias. A una VPC se le asigna un rango de IP y puede alojar una o más subredes dentro de ese rango. Luego se pueden crear instancias según sea necesario dentro de una subred. Consulta [¿Qué es una VPC?](../cloudstack-compute-service/what-is-a-vpc.md) para obtener información general sobre las VPCs.
-
-Un entorno de CloudMC AWS recién creado tendrá una VPC predeterminada. Puedes crear VPCs adicionales según sea necesario. También puedes eliminar las VPCs. Si se eliminan todas las VPCs, deberás crear al menos una VPC antes de agregar una nueva instancia.
+Un entorno de AWS recién creado en TIGO MCO tendrá una VPC predeterminada. Puedes crear VPCs adicionales según sea necesario. También puede eliminar las VPCs. Si se eliminan todas las VPCs, será necesario crear al menos una VPC antes de agregar una nueva instancia.
 
 <hr>
 PELIGRO
@@ -20,7 +19,6 @@ Al asignar un rango de IP a una VPC, se utiliza una notación llamada CIDR. El C
 
 Antes de que se pueda usar una VPC para implementar instancias, se debe agregar al menos una subred dentro de la VPC. Una VPC puede tener múltiples subredes siempre que sus rangos de IP no se superpongan y se encuentren completamente dentro del rango de la VPC. Las subredes pueden ser la misma zona de disponibilidad de AWS o estar en zonas separadas. Ten en cuenta que la elección de VPC para una instancia determinará qué subred estará disponible para esa instancia.
 
-Las VPCs se enumeran en la pestaña **Redes** de tu entorno de AWS, en la sección **Redes VPC**.
+Las VPCs se enumeran en la pestaña **Redes** del entorno (cuenta) de AWS, en la sección **Redes VPC**.
 
 **Tema principal:** [AWS: Redes](aws-networking.md)
-
