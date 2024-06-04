@@ -19,6 +19,5 @@ La plataforma de AWS es una nube pública, donde los clientes pueden asignar rec
 - [VPCs](aws-vpcs.md)
 - [Subredes](aws-subnetworks.md)
 - [Recursos de almacenamiento de objetos](aws-object_storage.md)
-- Clústeres de Kubernetes
 
 Debido a que TIGO MCO actúa como un portal único para los servicios de múltiples nubes, es posible que algunas operaciones parezcan comportarse de manera diferente que cuando interactúa directamente con AWS. Sin embargo, detrás de escena, todas las operaciones se ejecutan exactamente como lo harían normalmente. Los cambios realizados en las entidades de AWS en TIGO MCO se reflejarán inmediatamente en los recursos reales.
