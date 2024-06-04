@@ -3,8 +3,7 @@ title: "AWS: Redes"
 slug: aws-redes
 ---
 
-
-![Una captura de pantalla de la página AWS Redes, que enumera todas las VPCs, con puntos numerados que indican características de interés](/assets/aws-compute-vpclist-numdots-en.png)
+![Una captura de pantalla de la página AWS Redes, que enumera todas las VPCs, con puntos numerados que indican características de interés](/assets/aws-compute-vpclist-numdots-es.png)
 
 1. **Lista de VPC**
 
@@ -16,15 +15,15 @@ slug: aws-redes
 
 3. **Agregar VPC**
 
-     Al hacer clic en este botón, se abrirá la página **Agregar red VPC**.
+     Al hacer clic en este botón, se abrirá la página para agregar una red adicional al VPC.
 
 4. **Entrada de VPC**
 
      Cada entrada incluye el nombre de la VPC, su estado, ID, CIDR y estado de red predeterminado. Haz clic en una entrada para navegar a una página con detalles de configuración y operaciones para esa VPC individual.
 
-5. **Menú de acciones escondidas**
+5. **Menú de acciones**
 
-     Cada entrada en la lista de VPC tiene un menú de acciones escondidas. Haz clic en el menú de acciones escondidas para acceder a una lista de operaciones de uso frecuente para la VPC.
+     Cada entrada en la lista de VPC tiene un menú de acciones. Haz clic en el ícono (3 puntos) para acceder a una lista de operaciones de uso frecuente para la VPC.
 
 6. **Características de VPC**
 
@@ -34,11 +33,8 @@ slug: aws-redes
 
      Haz clic en el ícono de ajustes para navegar directamente a esa función.
 
+- **[AWS: VPCs](aws-vpcs.md)**  
 
--   **[AWS: VPCs](aws-vpcs.md)**  
+- **[AWS: Sub-redes](aws-subnetworks.md)**  
 
--   **[AWS: Sub-redes](aws-subnetworks.md)**  
-
--   **[AWS: Groupos de seguridad](aws-security_groups.md)**  
-
-
+- **[AWS: Groupos de seguridad](aws-security_groups.md)**  

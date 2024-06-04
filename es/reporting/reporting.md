@@ -1,3 +1,3 @@
 ---
-name: Informes
+name: Reportes
 ---

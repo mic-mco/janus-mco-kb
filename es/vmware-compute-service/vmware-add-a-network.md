@@ -1,5 +1,5 @@
 ---
-title: "TIGO Cloud 360: Agregar una red"
+title: "Cloud 360: Agregar una red"
 slug: cloud360-agregar-una-red
 ---
 

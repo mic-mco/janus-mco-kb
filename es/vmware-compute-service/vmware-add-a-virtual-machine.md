@@ -34,3 +34,5 @@ Este artículo te guiará a través del proceso de agregar una nueva máquina vi
 - La máquina virtual se crea utilizando la configuración especificada
 - Si se seleccionó **Encender**, el sistema inicia la máquina virtual inmediatamente después de crearla
 - La máquina virtual aparece en la pantalla **Máquinas virtuales**
+
+**Importante:** Debes almacenar de forma segura la contraseña de acceso como administrador. No se almacenará en ningún lugar de la interfaz de usuario de TIGO MCO y no se podrá recuperar una vez que se borre la notificación del panel. No se puede iniciar sesión en el sistema operativo de la máquina virtual sin esta clave. Si se pierde, deberás seguir un procedimiento de recuperación, que requiere puede implicar el reinicio de la máquina virtual.

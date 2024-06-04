@@ -1,3 +1,3 @@
 ---
-name: Servicio de AWS
+name: AWS
 ---

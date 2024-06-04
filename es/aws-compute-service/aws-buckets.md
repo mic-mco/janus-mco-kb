@@ -1,10 +1,9 @@
 ---
-title: "AWS: Cubos"
+title: "AWS: Buckets"
 slug: aws-cubos
 ---
 
-
-![Una captura de pantalla del contenido de un cubo de AWS, con puntos numerados que indican características de interés](/assets/aws-objectstorage-filelist-numdots-en.png)
+![Una captura de pantalla del contenido de un cubo de AWS, con puntos numerados que indican características de interés](/assets/aws-objectstorage-filelist-numdots-es.png)
 
 1. **Lista de objetos**
 
@@ -26,16 +25,14 @@ slug: aws-cubos
 
      Cada entrada incluye el nombre del objeto o carpeta. Los objetos también mostrarán su tamaño, tipo de contenido y la fecha de la última modificación. Haz clic en una entrada para navegar a una página con todos los detalles y metadatos del objeto. Las carpetas se enumerarán como un tipo de contenido de `aplicación/directorio`. Haz clic en una carpeta para mostrar su contenido.
 
-6. **Menú de acciones escondidas**
+6. **Menú de acciones**
 
-     Cada entrada en la lista de objetos tiene un menú de acciones escondidas. Haz clic en el menú de acciones escondidas para acceder a una lista de operaciones de uso frecuente para el objeto o la carpeta.
+     Cada entrada en la lista de objetos tiene un menú de acciones. Haz clic en el ícono (3 puntos) para acceder a una lista de operaciones de uso frecuente para el objeto o la carpeta.
 
+TIGO MCO brinda acceso a AWS Simple Storage Service a través de la pestaña **Almacenamiento de objetos** en cualquier entorno de AWS. Los usuarios pueden definir buckets (cubos) para almacenar archivos y acceder a ellos con una simple URL.
 
-CloudMC brinda acceso a AWS Simple Storage Service a través de la pestaña **Almacenamiento de objetos** en cualquier entorno de AWS. Los usuarios pueden definir cubos para almacenar objetos. Luego, los usuarios pueden cargar archivos y acceder a estos objetos con una simple URL.
+Cada bucket (cubo) tiene un nombre único, una región de AWS y permisos de acceso.
 
-Cada cubo tiene un nombre, una región de AWS y permisos de acceso.
-
-**Atención:** Una vez que se ha creado un cubo, su nombre y región no se pueden cambiar.
+**Atención:** Una vez que se ha creado un bucket (cubo), su nombre y región no se pueden cambiar.
 
 **Tema principal:** [AWS: Almacenamiento de objetos](aws-object_storage.md)
-

@@ -6,6 +6,7 @@ categories:
       - cloud.ca-in-a-nutshell.md
       - general-cloudmc_home_page.md
       - main-cloudmc-entities.md
+      - environments.md
       - need-more-help.md
 - category: vmware-compute-service
   icon: fa fa-cloud
@@ -41,7 +42,6 @@ categories:
 - category: how-to
   icon: fa fa-question
   articles:
-      - enable-2fa.md  
       - display-dates-in-your-preferred-time-zone.md
       - how-to-cloudmc-api-key.md
       - how-to-obtain-service-api-keys.md

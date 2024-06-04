@@ -15,7 +15,6 @@ Auto-gestione los siguientes componentes de su centro de datos virtual:
 - [Redes](vmware-networking.md)
 - [Máquinas virtuales](vmware-virtual-machines.md)
 - [Aplicaciones virtuales](vmware-virtual-applications.md)
-- [Almacenamiento](vmware-storage.md)
 
 **Cloud Performance.** Diseñe sus soluciones en la nube tomando de base plantillas previamente establecidas que se adaptan a las principales necesidades de las empresas. Todos los aspectos de la Infraestructura de nube estarán predefinidos
 

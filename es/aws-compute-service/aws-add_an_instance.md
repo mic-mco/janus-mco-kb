@@ -3,10 +3,9 @@ title: "AWS: Agregar una instancia"
 slug: aws-agregar-una-instancia
 ---
 
-
 ## Acerca de esta tarea
 
-Este artículo te guiará a través del proceso de agregar una nueva instancia a un entorno de AWS. La interfaz de CloudMC proporciona un asistente de varios pasos para seleccionar una configuración y la instancia (o instancias) se creará después del paso final del asistente.
+Este artículo te guiará a través del proceso de agregar una nueva instancia a un entorno de AWS. La interfaz de TIGO MCO proporciona un asistente de varios pasos para seleccionar una configuración para la instancia (o instancias) y esta se creará después del paso final del asistente.
 
 ## Antes de comenzar
 
@@ -18,9 +17,9 @@ Este artículo te guiará a través del proceso de agregar una nueva instancia a
 
 ## Procedimiento
 
-1. Navega hasta el entorno deseado. Aparece la página **Instancias**.
+1. Navega hasta el entorno deseado (cuenta AWS) para mostrar la página **Instancias**.
 
-2. Haz clic en el botón **Agregar instancia**. Aparece el asistente **Agregar instancia**.
+2. Haz clic en el botón **Agregar instancia** para iniciar el asistente **Agregar instancia**.
 
 3. Configura los ajustes básicos para la instancia.
 
@@ -94,7 +93,6 @@ Este artículo te guiará a través del proceso de agregar una nueva instancia a
 
      4. Guarda la clave SSH privada de forma segura.
 
-
 ## Resultados
 
 - La instancia se crea con las opciones de configuración seleccionadas
@@ -104,93 +102,3 @@ Este artículo te guiará a través del proceso de agregar una nueva instancia a
 - Todos los volúmenes existentes que se especificaron al asistente se adjuntarán a la nueva instancia
 - La instancia ahora aparece en la página **Instancias** de la pestaña **Cómputo**
 - La clave SSH privada necesaria para iniciar sesión en la instancia se ha almacenado de forma segura
-
-## Ejemplo: Agregar una instancia
-
-### Acerca de esta tarea
-
-En este ejemplo, agregaremos una instancia a nuestro entorno de `producción` de Acme. La instancia ejecutará Ubuntu y la crearemos en la VPC `acme-prod-vpc01`, utilizando la subred `acme-prod-net-frontend`, con solo el volumen raíz adjunto.
-
-### Antes de comenzar
-
-- La VPC `acme-prod-vpc01` ya debe existir en el entorno de `producción` de AWS
-- La subred `acme-prod-net-frontend` ya debe existir
-- La subred debe tener al menos una dirección IP disponible
-- Solo se implementará inicialmente una instancia
-- Permitiremos solo una instancia como máximo, no habrá escalado automático
-
-### Procedimiento
-
-1. Navega hasta el entorno de `producción`. Aparece la página **Instancias**.
-
-2. Haz clic en el botón **Agregar instancia**. Aparece el asistente **Agregar instancia**.
-
-3. Configura los ajustes básicos para la instancia.
-
-     1. Introduce `acme-prod-web01` en el campo **Nombre**.
-
-     2. Selecciona la región `us-east-1`.
-
-     3. Selecciona la imagen `Ubuntu 20.04`.
-
-     4. Haz clic en el menú emergente **Tipo de instancia** y escriba `micro`, luego selecciona `t1.micro` de los resultados de búsqueda.
-
-     5. Introduce `1` en los campos **Número mínimo de instancias** y **Número máximo de instancias**.
-
-     Haz clic en **Siguiente** para continuar.
-
-4. Configura los ajustes de seguridad para la instancia.
-
-     1. Introduce `ssh-prod-web01` en el campo **Nombre de la clave**.
-
-     2. Haz clic en el botón de opción **Habilitar el tráfico solo para HTTP, HTTPS y SSH** y acepta el nombre y la descripción del grupo de seguridad predeterminado.
-
-     Haz clic en **Siguiente** para continuar.
-
-5. Configura los ajustes de red para la instancia.
-
-     1. En el menú emergente **VPC**, selecciona `acme-prod-vpc01`.
-
-     2. En el menú emergente **Subred**, selecciona `acme-prod-net-frontend`.
-
-     Haz clic en **Siguiente** para continuar.
-
-6. Configura los ajustes de almacenamiento para la instancia.
-
-     1. Acepta el valor predeterminado en el campo **Nombre del dispositivo**.
-
-     2. Selecciona el tipo de rendimiento de volumen `gp2` en el menú emergente **Tipo de volumen**.
-
-     3. Introduce `10` en el campo **Tamaño**.
-
-     4. Selecciona la casilla de verificación **Eliminar en el momento de terminar** para eliminar automáticamente este volumen cuando se elimine la instancia.
-
-     Haz clic en **Siguiente** para continuar.
-
-7. En la página **Adjuntar volúmenes existentes**, haz clic en el botón **Eliminar** hasta que se eliminen todos los volúmenes, si se muestra alguno.
-
-8. Haz clic en el botón **Aplicar**.
-
-     La pantalla del asistente se cerrará y volverá a la pantalla **Instancias** de la pestaña **Cómputo**. La instancia puede tardar varios minutos en agregarse. Durante este tiempo, el panel de notificaciones indicará que se está creando la instancia.
-
-9. Guarda la clave SSH privada proporcionada en la notificación.
-
-     1. Haz clic en el icono **campana** para extender el panel de notificaciones.
-
-     2. La notificación superior debe ser para agregar la instancia `acme-prod-web01`.
-
-     3. Haz clic en el icono **Portapapeles** para copiar la clave SSH privada completa en tu portapapeles.
-
-     4. Guarda la clave SSH privada de forma segura y en un lugar donde se pueda acceder al iniciar sesión en la instancia.
-
-
-### Resultados
-
-- Se crea nuestra nueva instancia `acme-prod-web01` con las opciones de configuración seleccionadas
-- Solo se configura e implementa una instancia
-- Está en la región `us-east-1`
-- Tiene un volumen raíz con 10GB de almacenamiento
-- No se adjuntan otros volúmenes.
-- La instancia ahora aparece en la página **Instancias** de la pestaña **Cómputo**.
-- La clave SSH privada necesaria para iniciar sesión en la instancia se ha almacenado de forma segura
-

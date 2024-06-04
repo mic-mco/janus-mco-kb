@@ -77,6 +77,6 @@ Las máquinas virtuales se enumeran en la sección **Máquinas virtuales** del e
 
      Cada entrada incluye el nombre de la máquina virtual, su estado actual, la cantidad de vCPU y memoria aprovisionada para esta máquina virtual, el nombre de la plantilla que se utilizó para crearla y, si la máquina virtual se asignó a una aplicación virtual, su nombre también aparecerá aquí. Haga clic en una entrada para navegar a una página con detalles de configuración y una lista de todas las operaciones para esa máquina virtual individual.
 
-5. **Menú de acciones ocultas**
+5. **Menú de acciones**
 
-     Cada entrada en la lista de máquinas virtuales tiene un menú de acciones ocultas. Haga clic en el menú Acciones ocultas para acceder a una lista de operaciones utilizadas con frecuencia para la máquina virtual.
+     Cada entrada en la lista de máquinas virtuales tiene un menú de acciones. Haga clic en el ícono (3 puntos) para acceder a una lista de operaciones frecuentes utilizadas para gestionar la máquina virtual.

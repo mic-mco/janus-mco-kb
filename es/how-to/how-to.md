@@ -1,3 +1,3 @@
 ---
-name: Cómo hacerlos
+name: Tutoriales
 ---
