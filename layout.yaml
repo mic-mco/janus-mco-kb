@@ -17,6 +17,8 @@ categories:
       - vmware-virtual-applications.md
       - vmware-add-a-network.md
       - vmware-add-a-virtual-machine.md
+      - vmware-add-a-disk.md
+      - vmware-add-a-nic.md
 - category: aws-compute-service
   icon: fa fa-cloud
   articles:
