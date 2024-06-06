@@ -47,7 +47,8 @@ categories:
       - display-dates-in-your-preferred-time-zone.md
       - how-to-cloudmc-api-key.md
       - access_your_notifications.md
-      - how-to-allow-internet.md
+      - how-to-outbound-cloud360.md
+      - how-to-inbound-cloud360.md
 - category: automation
   icon: fa fa-retweet
   articles:
