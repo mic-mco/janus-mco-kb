@@ -11,9 +11,9 @@ Navegue hasta el entorno (VDC) deseado donde aparecerá la sección **Máquinas 
 
 Será dentro del dispositivo EDGE donde se realizarán todas las configuraciones necesarias para permitir la salida a Internet.
 
-### Crear regla NAT
+![Pantalla principal del EDGE](/assets/vmware-edge-es.png)
 
-![Pantalla de credenciales de API](/assets/cloudmc-api-key-es-01.png)
+### Crear regla NAT
 
 De clic en el ícono de engrane para la sección **Reglas NAT** en el dispositivo EDGE. Al hacerlo, se mostrará el listado de las reglas de NAT actualmente configuradas. Es posible que el listado aparezca vacío si es la primera regla NAT que se genera o bien, si se realizó una eliminación completa de reglas.
 
@@ -27,6 +27,8 @@ Asumamos que en su entorno se encuentra configurada la red 192.168.12.1/25 y que
 
 De clic en **Aplicar** para crear la regla NAT.
 
+![Pantalla con ejemplo de configuración de una regla NAT](/assets/vmware-nat-rule-es.png)
+
 ### Crear conjunto de IP
 
 Un conjunto IP es un grupo de direcciones IP que pueden utilizarse como orígenes y destinos en las reglas de firewall. Un conjunto IP puede contener una combinación de direcciones IP individuales, rangos IP y subredes.
@@ -39,6 +41,8 @@ Ingrese un nombre descriptivo para este conjunto y, opcionalmente, una descripci
 
 De clic en **Aplicar** para crear el conjuto de IP.
 
+![Pantalla con ejemplo de configuración de un conjunto de IP](/assets/vmware-ip-set-es.png)
+
 ### Crear regla de Firewall
 
 Navegue de regreso a la pantalla de configuración del dispositivo EDGE. De clic en el ícono de engrane para la sección **Reglas de firewall**. Al hacerlo, se mostrará el listado de las reglas de firewall actualmente configuradas. Este listado contendrá, por lo menos, la regla por defecto la cual es un drop desde *ANY* y hacia *ANY*. Esta regla no se puede eliminar, ya que es una medida de protección para descartar todo el tráfico que no tenga una regla que lo permita.
@@ -50,5 +54,7 @@ Ingrese un nombre descriptivo para este regla. Asegurese de que la casilla **Act
 En el campo **Fuente** seleccione el nombre del conjunto de IP recién creado y, en el campo destino, seleccione el valor Cualquier. El campo acción debe de tener como valor Permitir. En nuestro ejemplo estamos trabajando con IPv4, por lo tanto, dicho valor debe estar seleccionado el campo **Protocolo IP**.
 
 De clic en **Aplicar** para crear la regla de firewall.
+
+![Pantalla con ejemplo de configuración de una regla FW](/assets/vmware-fw-rule-es.png)
 
 Desde el sistema operativo de una máquina virtual dentro del segmento de red asociado a la regal NAT y al conjunto de IP, confirme la conectividad a Internet utilizando el navegador Web o un comando ping a una IP de un servidor en Internet o con cualquier otro método disponible y de su preferencia.
