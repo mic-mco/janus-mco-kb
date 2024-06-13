@@ -37,23 +37,23 @@ Una máquina virtual también puede pasar por los siguientes subestados:
 
 - **Estado inconsistente**
 
-     Una máquina virtual en este estado se modificó directamente en el virtualizados y no meidante TIGO MCO por lo que es requerida una sinronización. Apague la máquina virtual y luego vuelva a encenderla para devolverla a su estado normal.
+     Una máquina virtual en este estado se modificó directamente en el virtualizador y no mediante TIGO MCO por lo que es requerida una sinronización. Apague la máquina virtual y luego vuelva a encenderla para devolverla a su estado normal.
 
 - **Iniciando**
 
-     Las máquina virtual pasan por este subestado durante su creación.
+     Las máquina virtuales pasan por este subestado durante su creación.
 
 - **Apagando**
 
-     Subestado temporal que sucede solo durante el apagado de la máquina vritual.
+     Subestado temporal que sucede solo durante el apagado de la máquina virtual.
 
 - **Eliminación**
 
-     Subestado temporal que sucede solo durante el proceso de borrado de la máquina vritual.
+     Subestado temporal que sucede solo durante el proceso de borrado de la máquina virtual.
 
 - **Desconocido**
 
-     Subestado temporal que sucede solo durante el proceso de borrado de la máquina vritual.
+     Subestado temporal que sucede solo durante el proceso de borrado de la máquina virtual.
 
 ## Lista de máquinas virtuales
 

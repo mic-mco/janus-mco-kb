@@ -9,7 +9,7 @@ La página de inicio de TIGO MCO es la página predeterminada que se le presenta
 
 1. **Barra de menús**
 
-    En la parte superior se muestra la barra de menú la cual está disponible en todo momento. En ella encontrarás todas las funciones de la plataforma agrupadas en categorías, tal como servicios, activades, informes, enter otros. Podrás interactuar con ellas en todo momento mientras tengas una sesión activia den la plataforma. Las opciones se ajustan a cada usuario dependiendo del rol y privilegios que tenga asignados.
+    En la parte superior se muestra la barra de menú la cual está disponible en todo momento. En ella encontrarás todas las funciones de la plataforma agrupadas en categorías, tal como servicios, actividades, informes, entre otros. Podrás interactuar con ellas en todo momento mientras tengas una sesión activia den la plataforma. Las opciones se ajustan a cada usuario dependiendo del rol y privilegios que tenga asignados.
 
 2. **Espacio de trabajo**
 
@@ -21,4 +21,4 @@ La página de inicio de TIGO MCO es la página predeterminada que se le presenta
 
 4. **Opciones de control**
 
-    En el lado derecho de la barra de menú se ubcian tres elementos: el menú de ayuda, el menú de notificaciones y el menú de usuario. Bajo estos elementos podrás recibir mensajes de tus tareas de aprovisionamiento o mensajaes importantes emitidos por TIGO, acceder a la base de datos de conocimiento, gestionar tus datos personales y cerrar sesión en la plataforma.
+    En el lado derecho de la barra de menú se ubican tres elementos: el menú de ayuda, el menú de notificaciones y el menú de usuario. Bajo estos elementos podrás recibir mensajes de tus tareas de aprovisionamiento o mensajes importantes emitidos por TIGO, acceder a la base de datos de conocimiento, gestionar tus datos personales y cerrar sesión en la plataforma.

@@ -5,7 +5,7 @@ slug: cloud360-agregar-una-nic
 
 ## Acerca de esta tarea
 
-Este artículo lo guiará a través del proceso de agregar una nueva interfaz de red a una máquina virtual ya aprovsionada en un entorno (VDC) VMware. La interfaz de TIGO MCO proporciona un asistente para configurar y desplegar nuevas interfaces de red.
+Este artículo lo guiará a través del proceso de agregar una nueva interfaz de red a una máquina virtual ya aprovisionada en un entorno (VDC) VMware. La interfaz de TIGO MCO proporciona un asistente para configurar y desplegar nuevas interfaces de red.
 
 ## Antes de comenzar
 

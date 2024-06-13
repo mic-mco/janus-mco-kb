@@ -15,7 +15,7 @@ Se admiten los siguientes tipos diferentes de redes:
 
 - **Aislada**
 
-    El modo de red más básico, una red aislada, proporciona conectividad entre las interfaces conectadas a ella. Redes aisladas no proporcionan conectividad con el mundo exterior. Sólo las máquinas virtuales dentro del mismo entorno (VDC) que una red aislada pueden conectarse a esa red.
+    El modo de red más básico, una red aislada, proporciona conectividad entre las interfaces conectadas a ella. Este tipo de redes no proporcionan conectividad con el mundo exterior. Al utilizar una red aislada, sólo las máquinas virtuales dentro del mismo entorno (VDC) se pueden comunicar entre ellas.
 
 - **Con enrutamiento**
 
