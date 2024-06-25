@@ -29,4 +29,6 @@ slug: aws-almacenamiento-de-objetos
 
      Cada entrada en la lista de buckets (cubos) tiene un menú de acciones. Haz clic en el ícono (3 puntos) para acceder a una lista de operaciones de uso frecuente para el bucket (cubo).
 
+**Limitante:** Por ahora solo es factible crear buckets (cubos) en modalidad privada.
+
 - **[AWS: Buckets (Cubos)](aws-buckets.md)**  

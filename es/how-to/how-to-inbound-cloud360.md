@@ -1,6 +1,6 @@
 ---
 title: "Permitir comunicación entrante en Tigo Cloud 360"
-slug: salida-internet-cloud360
+slug: entrada-internet-cloud360
 ---
 
 Los entornos (VDC) de TIGO Cloud 360 cuentan con capacidad de establcer conexion desde y hacía Internet. El presente artículo describe las configuraciones a realizar para publicar un puerto en Internet y permitir la comunicación entrante. Particularmente se aborda como publicar el puerto 443 (https) para una página Web.

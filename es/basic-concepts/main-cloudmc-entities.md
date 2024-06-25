@@ -18,7 +18,3 @@ TIGO MCO ha sido diseñado bajo un modelo de agrupación jerárquica que permite
 - **Permiso:** se trata de una autorización para ejecutar una tarea en particular.
 
 - **Rol:** es una colección nombrada de permisos que gobiernan el acceso a la funcionalidad en la consola de TIGO MCO, así como el acceso a los recursos de un servicio.
-
-## Ver también
-
-- [Usar entornos para organizar usuarios y cargas de trabajo](environments-to-organize-workloads-and-users.md)

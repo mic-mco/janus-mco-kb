@@ -10,12 +10,6 @@ Una solución hiperconvergente y completa de IaaS. Las empresas podrán elegir e
 
 **Cloud Flex.** La opción más flexible del portafolio con la que las empresas pagan únicamente por los recursos de cómputo consumidos o utilizados durante el mes. Pueden activar y desactivar servicios para ahorrar cuando no sean necesarios y volver a activarlos.
 
-Auto-gestione los siguientes componentes de su centro de datos virtual:
-
-- [Redes](vmware-networking.md)
-- [Máquinas virtuales](vmware-virtual-machines.md)
-- [Aplicaciones virtuales](vmware-virtual-applications.md)
-
 **Cloud Performance.** Diseñe sus soluciones en la nube tomando de base plantillas previamente establecidas que se adaptan a las principales necesidades de las empresas. Todos los aspectos de la Infraestructura de nube estarán predefinidos
 
 ## Características
@@ -26,3 +20,9 @@ Auto-gestione los siguientes componentes de su centro de datos virtual:
 - Servicio de IaaS bajo demanda (vCPU / vRAM)
 - Paga únicamente por los recursos en uso
 - Escalable y con diferentes modalidades de pago acorde a sus necesidades.
+
+Auto-gestione los siguientes componentes de su centro de datos virtual:
+
+- [Redes](vmware-networking.md)
+- [Máquinas virtuales](vmware-virtual-machines.md)
+- [Aplicaciones virtuales](vmware-virtual-applications.md)

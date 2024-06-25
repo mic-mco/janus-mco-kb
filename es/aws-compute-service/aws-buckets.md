@@ -34,5 +34,6 @@ TIGO MCO brinda acceso a AWS Simple Storage Service a través de la pestaña **A
 Cada bucket (cubo) tiene un nombre único, una región de AWS y permisos de acceso.
 
 **Atención:** Una vez que se ha creado un bucket (cubo), su nombre y región no se pueden cambiar.
+**Limitante:** Por ahora solo es factible crear buckets (cubos) en modalidad privada.
 
 **Tema principal:** [AWS: Almacenamiento de objetos](aws-object_storage.md)

@@ -16,8 +16,8 @@ La plataforma de AWS es una nube pública, donde los clientes pueden asignar rec
   - [Imágenes de máquina de Amazon \(AMIs\)](aws-amis.md)
   - [Volúmenes](aws-volumes.md)
 - [Recursos de red](aws-networking.md):
-- [VPCs](aws-vpcs.md)
-- [Subredes](aws-subnetworks.md)
+  - [VPCs](aws-vpcs.md)
+  - [Subredes](aws-subnetworks.md)
 - [Recursos de almacenamiento de objetos](aws-object_storage.md)
 
 Debido a que TIGO MCO actúa como un portal único para los servicios de múltiples nubes, es posible que algunas operaciones parezcan comportarse de manera diferente que cuando interactúa directamente con AWS. Sin embargo, detrás de escena, todas las operaciones se ejecutan exactamente como lo harían normalmente. Los cambios realizados en las entidades de AWS en TIGO MCO se reflejarán inmediatamente en los recursos reales.
