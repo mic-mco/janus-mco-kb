@@ -59,7 +59,7 @@ A virtual machine may also transition through the following sub-states:
 
 Virtual machines are listed under the **Virtual Machines** section of the selected TIGO Cloud 360 environment (VDC).
 
-![A screenshot of the TIGO Cloud 360 Virtual Machines page, with numbered dots indicating features of interest](/assets/vmware-vms-list-en.png)
+![A screenshot of the TIGO Cloud 360 Virtual Machines page, with numbered dots indicating features of interest](/assets/vmware-vms-list-es.png)
 
 1. **List of virtual machines**
 

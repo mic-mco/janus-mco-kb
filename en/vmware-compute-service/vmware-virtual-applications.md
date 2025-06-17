@@ -31,7 +31,7 @@ A virtual application is created with its own network, which allows the virtual 
 
 Virtual applications are listed under the **Virtual Applications** section of the selected Tigo Cloud 350 environment (VDC).
 
-![A screenshot of the TIGO Cloud 360 virtual applications page, with numbered dots indicating features of interest](/assets/vmware-vapps-list-en.png)
+![A screenshot of the TIGO Cloud 360 virtual applications page, with numbered dots indicating features of interest](/assets/vmware-vapps-list-es.png)
 
 1. **List of virtual applications**
 
