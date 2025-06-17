@@ -1,5 +1,5 @@
 ---
-title: "Permitir comunicación entrante en Tigo Cloud 360"
+title: "Permitir comunicación entrante en TIGO Cloud 360"
 slug: entrada-internet-cloud360
 ---
 

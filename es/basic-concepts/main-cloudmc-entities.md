@@ -11,7 +11,7 @@ TIGO MCO ha sido diseñado bajo un modelo de agrupación jerárquica que permite
 
 - **Servicio:** permite interactuar con los recursos virtuales ubicados en múltiples locaciones geográficas y con diferentes proveedores de servicios en la nube.
 
-- **Entorno:** es la unidad lógica dentro de una organización que se utiliza para aislar y agrupar recursos de forma segura. Es equivalente a los centros de datos virtutales en Tigo Cloud 360 o a una cuenta en AWS.
+- **Entorno:** es la unidad lógica dentro de una organización que se utiliza para aislar y agrupar recursos de forma segura. Es equivalente a los centros de datos virtutales en TIGO Cloud 360 o a una cuenta en AWS.
 
 - **Recursos:** son los componentes finales que se pueden aprovisionar y gestionar, se pueden mencionar como ejemplos los servidores virtuales, redes virtuales, discos de almacenamiento y tarjetas de red virtuales, entre otros.
 

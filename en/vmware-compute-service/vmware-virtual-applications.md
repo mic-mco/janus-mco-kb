@@ -1,12 +1,11 @@
 ---
-title: "VMware: Virtual Applications"
-slug: vmware-vapps
+title: "Cloud 360: Virtual Applications"
+slug: cloud360-vapps
 ---
 
+A virtual application is a container of virtual machines which provide the infrastructure for a cloud-native application. This article discusses the concept of virtual applications and how they are managed in TIGO MCO.
 
-A virtual application is a container of virtual machines which provide the infrastructure for a cloud-native application. This article discusses the concept of virtual applications and how they are managed in CloudMC.
-
-Virtual applications are listed under the **Virtual Applications** section of the selected VMware environment.
+Virtual applications are listed under the **Virtual Applications** section of the selected TIGO Cloud 360 environment (VDC).
 
 ## Detailed overview
 
@@ -16,43 +15,40 @@ A virtual application is created with its own network, which allows the virtual 
 
 ## Virtual application status
 
--   **Powered on**
+- **Powered on**
 
     All of the virtual machines assigned to this virtual application are powered on.
 
--   **Partially powered off**
+- **Partially powered off**
 
     During the normal boot process, a virtual application will briefly enter this state.
 
--   **Partially running**
+- **Partially running**
 
     One or more virtual machines assigned to this virtual application is either suspended or powered off.
 
-
 ## Virtual application list
 
-Virtual applications are listed under the **Virtual Applications** section of the selected VMware environment.
+Virtual applications are listed under the **Virtual Applications** section of the selected Tigo Cloud 350 environment (VDC).
 
-![A screenshot of the VMware virtual applications page, with numbered dots indicating features of interest](/assets/vmware-vapps-list-en.png)
+![A screenshot of the TIGO Cloud 360 virtual applications page, with numbered dots indicating features of interest](/assets/vmware-vapps-list-en.png)
 
-1.  **List of virtual applications**
+1. **List of virtual applications**
 
     A list of all virtual applications in the selected environment appears here in this area.
 
-2.  **Search box**
+2. **Search box**
 
     Type in the search box to filter the virtual applications list. The system will search through the name field, as well as the internal UUID, and returns any virtual application that matches the string in the search box.
 
-3.  **Add virtual application**
+3. **Add virtual application**
 
     Clicking this button will open the **Add virtual application** wizard.
 
-4.  **Virtual application row**
+4. **Virtual application row**
 
     Each row includes the name of the virtual application, its status, the total amount of vCPUs, memory, and storage provisioned among all the virtual machines in the virtual application, and a count of all virtual machines in the application. Click on an entry to navigate to a page with configuration details and a list of all operations for that individual virtual application.
 
-5.  **Hidden Actions menu**
+5. **Hidden Actions menu**
 
     Each entry in the virtual applications list has a Hidden Actions menu. Click on the Hidden Actions menu to access a list of frequently-used operations for the virtual application.
-
-

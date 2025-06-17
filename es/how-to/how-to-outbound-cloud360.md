@@ -1,5 +1,5 @@
 ---
-title: "Permitir salida a Internet en Tigo Cloud 360"
+title: "Permitir salida a Internet en TIGO Cloud 360"
 slug: salida-internet-cloud360
 ---
 

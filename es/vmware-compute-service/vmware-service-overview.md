@@ -8,7 +8,7 @@ Una solución hiperconvergente y completa de IaaS. Las empresas podrán elegir e
 
 ## Descripción detallada
 
-**Cloud Flex.** Una solución de infraestructura en la nube con la flexibilidad de pago únicamente por uso. Acceda a los recursos del Data Center de Tigo Businnes, activando o desactivando servicios para consumir recursos.
+**Cloud Flex.** Una solución de infraestructura en la nube con la flexibilidad de pago únicamente por uso. Acceda a los recursos del Data Center de TIGO Businnes, activando o desactivando servicios para consumir recursos.
 
 **Cloud Performance.** Diseñe sus soluciones en la nube tomando de base plantillas previamente establecidas que se adaptan a las principales necesidades de las empresas. Todos los aspectos de la Infraestructura de nube estarán predefinidos
 

@@ -3,7 +3,7 @@ title: "Gestionar tus notificaciones"
 slug: gestionar-tus-notificaciones
 ---
 
-Este artículo describe las notificaciones, cómo acceder a ellas y administrarlas.
+Este artículo describe las notificaciones, cómo acceder a ellas y administrarlas en TIGO MCO.
 
 ## Descripción general
 

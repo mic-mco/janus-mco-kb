@@ -1,6 +1,6 @@
 ---
-title: "CloudMC API"
-slug: cloudmc-api
+title: "Tigo MCO API"
+slug: tigomco-api
 ---
 
 This article introduces the TIGO MCO REST API and provides details on how to access it.
@@ -13,7 +13,7 @@ As an API-driven orchestration platform, TIGO MCO provides access to all functio
 
 To use the TIGO MCO API, you will need to log in to the system and create an API key for your requests. The following article provides the steps to create a new API key:
 
-- [Generate a CloudMC API key](../how-to/how-to-cloudmc-api-key.md)
+- [Generate a Tigo MCO API key](../how-to/how-to-cloudmc-api-key.md)
 
 In addition to the API keys, the **API credentials** page will also list the URL to use when connecting to an endpoint.
 

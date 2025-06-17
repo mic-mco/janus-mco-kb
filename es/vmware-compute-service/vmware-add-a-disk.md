@@ -5,7 +5,7 @@ slug: cloud360-agregar-un-disco
 
 ## Acerca de esta tarea
 
-Este artículo lo guiará a través del proceso de agregar un nuevo disco a una máquina virtual ya aprovisionada en un entorno (VDC) VMware. La interfaz de TIGO MCO proporciona un asistente para configurar y desplegar discos virtuales.
+Este artículo lo guiará a través del proceso de agregar un nuevo disco a una máquina virtual ya aprovisionada en un entorno (VDC) TIGO Cloud 360. La interfaz de TIGO MCO proporciona un asistente para configurar y desplegar discos virtuales.
 
 ## Antes de comenzar
 

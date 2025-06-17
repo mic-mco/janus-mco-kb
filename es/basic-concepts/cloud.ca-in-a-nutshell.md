@@ -19,4 +19,4 @@ TIGO MCO es una plataforma robusta de orquestación de servicios en la nube. Med
 - **Ahorro en costos**: evita grandes inversiones en infraestructura, licenciamiento y personal técnico especializado por medio de pagos mensuales en modalidad de servicio.
 - **Flexibilidad**: permite a las empresas contratar y disponer de los recursos de cómputo (vCPU/vRAM) y almacenamiento de acuerdo sus necesidades específicas.
 - **Escalabilidad**: se pueden desplegar desde soluciones sencillas hasta aplicaciones más complejas a medida que aumentan las necesidades de procesamiento, memoria, almacenamiento y respaldo.
-- **Cercanía geográfica**: la ubicación de los centros de datos Tigo permiten reducir la latencia asociada a comunicación y conectividad.
+- **Cercanía geográfica**: la ubicación de los centros de datos TIGO permiten reducir la latencia asociada a comunicación y conectividad.

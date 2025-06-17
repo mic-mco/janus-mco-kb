@@ -1,6 +1,6 @@
 ---
-title: "VMware: Service overview"
-slug: vmware-service-overview
+title: "Cloud 360: Service overview"
+slug: cloud360-service-overview
 ---
 
 ## Summary
@@ -9,7 +9,7 @@ A hyper-converged and comprehensive IaaS solution. Businesses will be able to ch
 
 ## Detailed Description
 
-**Cloud Flex.** A cloud infrastructure solution with the flexibility of pay-per-use billing. Access resources from the Tigo Business Data Center, activating or deactivating services to consume resources.
+**Cloud Flex.** A cloud infrastructure solution with the flexibility of pay-per-use billing. Access resources from the TIGO Business Data Center, activating or deactivating services to consume resources.
 
 **Cloud Performance.** Design your cloud solutions based on pre-established templates that adapt to the main needs of businesses. All aspects of the cloud infrastructure will be predefined.
 
