@@ -3,19 +3,29 @@ title: "VMware: Service overview"
 slug: vmware-service-overview
 ---
 
-
 ## Summary
 
-CloudMC allows cloud operators to access and manage infrastructure and resources that have been deployed on a VMware Cloud Director service delivery platform. This article will introduce basic concepts of VMware and working with VMWare Cloud Director resources in CloudMC.
+A hyper-converged and comprehensive IaaS solution. Businesses will be able to choose from different alternatives for contracting cloud infrastructure services in a flexible, scalable manner, with various payment modalities tailored to their needs. A solution based on VMware technology.
 
-## Detailed overview
+## Detailed Description
 
-VMware Cloud Director enables enterprises to build private clouds and datacenters, which can be used to deploy cloud-based applications. CloudMC provides a unified interface to access a VMware platform and other services from a single portal. Through CloudMC, users can manage:
+**Cloud Flex.** A cloud infrastructure solution with the flexibility of pay-per-use billing. Access resources from the Tigo Business Data Center, activating or deactivating services to consume resources.
 
--   [Networks](vmware-networking.md)
--   [Virtual machines](vmware-virtual-machines.md)
--   [Virtual applications](vmware-virtual-applications.md)
--   [Storage](vmware-storage.md)
+**Cloud Performance.** Design your cloud solutions based on pre-established templates that adapt to the main needs of businesses. All aspects of the cloud infrastructure will be predefined.
 
-Because CloudMC acts as a portal to VMware Cloud Director services, you may find that some operations appear to behave differently than when interacting with VMware directly. However, behind the scenes, all operations execute exactly as they normally would. Changes made to VMware entities in CloudMC will be reflected immediately in the actual resources.
+**Cloud Select.** A versatile, adaptable, and customized option for your needs. With Cloud Select, you get a virtual data center solution that can be implemented according to your specific requirements. Resource management is performed by the client.
 
+## Features
+
+- Flexible contracting of cloud services
+- Option for predefined resources in templates
+- Free configuration and design modality
+- On-demand IaaS service (vCPU / vRAM)
+- Pay only for resources in use
+- Scalable, with various payment modalities tailored to your needs.
+
+Self-manage the following components of your virtual data center:
+
+- [Networks](vmware-networking.md)
+- [Virtual machines](vmware-virtual-machines.md)
+- [Virtual applications](vmware-virtual-applications.md)

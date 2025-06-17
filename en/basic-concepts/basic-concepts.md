@@ -1,3 +1,3 @@
 ---
-name: Basic Concepts
+name: Basic concepts
 ---

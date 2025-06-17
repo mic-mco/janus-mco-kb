@@ -8,9 +8,11 @@ Una solución hiperconvergente y completa de IaaS. Las empresas podrán elegir e
 
 ## Descripción detallada
 
-**Cloud Flex.** La opción más flexible del portafolio con la que las empresas pagan únicamente por los recursos de cómputo consumidos o utilizados durante el mes. Pueden activar y desactivar servicios para ahorrar cuando no sean necesarios y volver a activarlos.
+**Cloud Flex.** Una solución de infraestructura en la nube con la flexibilidad de pago únicamente por uso. Acceda a los recursos del Data Center de Tigo Businnes, activando o desactivando servicios para consumir recursos.
 
 **Cloud Performance.** Diseñe sus soluciones en la nube tomando de base plantillas previamente establecidas que se adaptan a las principales necesidades de las empresas. Todos los aspectos de la Infraestructura de nube estarán predefinidos
+
+**Cloud Select.** Una opción versátil, adaptable y a la medida de sus necesidades. Con Cloud Select obtine una solución de centro de datos virtual que podrá ser implementada según sus requerimientos específicos. La administración de los recursos es realizada por el cliente.
 
 ## Características
 
