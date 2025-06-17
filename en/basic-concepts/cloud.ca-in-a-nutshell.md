@@ -1,27 +1,22 @@
 ---
-title:  "CloudMC in a nutshell"
+title:  "TIGO MCO in a nutshell"
 slug: cloudmc-in-a-nutshell
 ---
 
-### What is CloudMC?
+### What is TIGO MCO?
 
-CloudMC is a cloud edge orchestration platform. It delivers scalable, secure, high-performance, cost-effective, and resilient cloud services.
+TIGO MCO is a robust cloud service orchestration platform. Through a single portal, you can manage your workloads across different clouds, including TIGO Cloud 360, AWS, and Azure. This platform allows you to easily deploy and manage virtual servers or EC2 instances.
 
-### Why CloudMC?
+## Features
 
-- **Speed your innovation**  − On demand, self-service platform for DevOps, with complete API automation for continuous delivery
-- **Usage and cost transparency**  − Granular metering and reporting make governance without bureaucracy possible
+- **Intuitive self-service portal**, for team collaboration.
+- **Environment-focus**, allowing you to create virtual data centers or import AWS accounts.
+- **Open-source API**, facilitating automation and continuous delivery.
+- **Access to reports**, enabling you to track historical consumption and control your budget.
 
-### Advantages
+## Benefits and Advantages of TIGO Cloud 360 Services?
 
-For innovation:
-
-- **Intuitive self-service portal with advanced RBAC** for team collaboration
-- **Environments-focused**, for example, Dev, Test, QA, Staging, and Production
-- **Open-Source APIs** supporting DevOps automation and continuous delivery
-
-For transparency:
-
-- **Utility billing** (hourly rates)
-- **Detailed usage reporting** by environment
-- **Governance capabilities** (RBAC, budgets, quotas, etc.)
+- **Cost Savings**: Avoid large investments in infrastructure, licensing, and specialized technical personnel through monthly service-based payments.
+- **Flexibility**: Allows businesses to contract and utilize compute resources (vCPU/vRAM) and storage according to their specific needs.
+- **Scalability**: Simple solutions to more complex applications can be deployed as processing, memory, storage, and backup needs increase.
+- **Geographic Proximity**: The location of TIGO data centers helps reduce latency associated with communication and connectivity."

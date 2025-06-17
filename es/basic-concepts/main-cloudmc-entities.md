@@ -1,6 +1,6 @@
 ---
 title: "Principales componentes de TIGO MCO"
-slug: principales-entidades-de-cloudmc
+slug: principales-entidades-de-tigomco
 ---
 
 TIGO MCO ha sido diseñado bajo un modelo de agrupación jerárquica que permite el aprovisionamiento y gestión de servicios en la nube de forma ágil y segura. La siguiente es una lista de los principales componentes de la solución.

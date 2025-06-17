@@ -1,31 +1,24 @@
 ---
-title: "CloudMC Home page"
-slug: general-cloudmc-home-page
+title: "TIGO MCO Home page"
+slug: general-tigomco-home-page
 ---
 
+The TIGO MCO home page is the default page a user is presented with when logging into the system.
 
-The CloudMC home page is the default page a user is presented with when logging into the system.
+![Screenshot of the TIGO MCO home page, with numbered dots highlighting features of interest](/assets/general-cmc-ui-home-es.png)
 
-![Screenshot of the CloudMC home page, with numbered dots highlighting features of interest](/assets/general-cmc-ui-home-en.png)
+1. **Menu bar**
 
-1.  **Workspace**
+    At the top, the menu bar is displayed, which is available at all times. In it, you will find all the platform's functions grouped into categories such as services, activities, reports, among others. You can interact with them at any time as long as you have an active session on the platform. The options adjust to each user depending on the role and privileges assigned.
 
-    The workspace is the main section of all CloudMC screens. The items that are visible in the workspace are determined by the context of where you are in the system. For example, in the home page listed here, you can find the services map, the quick access panel, as well as summaries of system health and recent activity.
+2. **Workspace**
 
-2.  **Sidebar**
+    The workspace is the main section of all TIGO MCO screens. The elements visible in the workspace are determined by the context of your location in the system. For example, on the home page shown here, you can find the service map, system status, and recent activity.
 
-    The sidebar is on the left-hand side of any CloudMC screen. The sidebar is where you can navigate to all of the major features of the system, including service connections, reporting, activity logs, and administration.
+3. **Organization picker**
 
-3.  **Organization picker**
+    TIGO MCO is a platform that allows the management of multiple organizations grouped under a single main organization; for example, a multinational company can have sub-organizations associated with geographical locations. The organization selector allows you to navigate between the organizations and sub-organizations to which you have access.
 
-    CloudMC is a multi-tenant platform. Use the organization picker to navigate between the organizations and sub-organizations you have access to. Note that the branding of the user interface may change when you switch to a different organization.
+4. **Control options**
 
-4.  **Menu bar**
-
-    Across the top of all screens is the menu bar. The right-hand side of the menu bar contains three items: the help menu, the notifications menu, and the user menu.
-
-5.  **Collapse gadget**
-
-    Click on the collapse gadget to minimize the sidebar. This will make more room available for the workspace. Items in the sidebar will still be visible via their icons.
-
-
+    On the right side of the menu bar are three elements: the help menu, the notifications menu, and the user menu. Under these elements, you can receive messages about your provisioning tasks or important messages issued by TIGO, access the knowledge base, manage your personal data, and log out of the platform.

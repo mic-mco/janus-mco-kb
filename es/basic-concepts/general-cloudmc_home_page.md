@@ -1,5 +1,5 @@
 ---
-title: "Página de inicio"
+title: "Página de inicio TIGO MCO"
 slug: general-tigomco-pagina-de-inicio
 ---
 

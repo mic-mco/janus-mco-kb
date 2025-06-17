@@ -1,29 +1,20 @@
 ---
-title: "Main CloudMC entities"
-slug: main-cloudmc-entities
+title: "Main TIGO MCO entities"
+slug: main-tigomco-entities
 ---
 
+TIGO MCO has been designed under a hierarchical grouping model that allows for agile and secure provisioning and management of cloud services. The following is a list of the solution's main components.
 
-CloudMC has a powerful user and resource model, providing multi-tenant enterprise-level features for connecting a variety of different services.  The following is a list of the main entities that provide functionality and security in CloudMC.
+### TIGO MCO entities
 
-### CloudMC entities
+- **Organization:** This is the primary logical grouping in the system and includes services, environments, resources, and users. An organization can contain sub-organizations, as might be the case for a multinational company.
 
-- **Organization:** A grouping of related end-users and resources.  An organization may contain sub-organizations.
+- **Service:** Allows interaction with virtual resources located in multiple geographical locations and with different cloud service providers.
 
-- **Environment:** A logical unit within an organization, used to isolate and group resources securely.
+- **Environment:** This is the logical unit within an organization used to securely isolate and group resources. It is equivalent to virtual data centers in TIGO Cloud 360 or an account in AWS.
 
-- **Service:** An abstraction through which a user provisions and interacts with virtual resources.
+- **Resources:** These are the final components that can be provisioned and managed. Examples include virtual servers, virtual networks, storage disks, and virtual network cards, among others.
 
-- **Application:** An external application that has been configured for access via Master Portal.
+- **Permission:** This refers to an authorization to execute a particular task.
 
-- **User:** A user account is how an individual connects to CloudMC.
-
-- **Permission:** An authorization to execute a particular task.
-
-- **Role:** A named collection of permissions which govern access to functionality in the CloudMC console, as well as access to a service's resources.
-
-### See also
-
-   - [Using environments to organize users and workloads](environments-to-organize-workloads-and-users.md)
-
-   - [Role-based access controls](../administration/rbac.md)
+- **Role:** This is a named collection of permissions that govern access to functionality within the TIGO MCO console, as well as access to service resources.
