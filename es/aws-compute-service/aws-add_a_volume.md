@@ -21,23 +21,23 @@ Este artículo lo guiará a través del proceso de agregar un nuevo volumen a un
 
 4. Configura el nuevo volumen:
 
-     1. Introduce un nombre en el campo **Nombre** o acepta el predeterminado.
+     - Introduce un nombre en el campo **Nombre** o acepta el predeterminado.
 
-     2. Selecciona el tipo de volumen para crear.
+     - Selecciona el tipo de volumen para crear.
 
-     3. Ingresa la cantidad de gigabytes para asignar para el nuevo volumen en el cuadro de texto **Tamaño**. El volumen debe ser un número entero.
+     - Ingresa la cantidad de gigabytes para asignar para el nuevo volumen en el cuadro de texto **Tamaño**. El volumen debe ser un número entero.
 
-     4. Especifica la zona de disponibilidad en la cual se creará el nuevo volumen
+     - Especifica la zona de disponibilidad en la cual se creará el nuevo volumen
 
           La zona de disponibilidad seleccionada definirá las instancias a las cuales el nuevo volumen será asociable.
 
 5. \(Opcional\) Puedes adjuntar automáticamente el nuevo volumen a una instancia existente:
 
-     1. Haz clic en **Adjuntar volumen a instancia existente**.
+     - Haz clic en **Adjuntar volumen a instancia existente**.
 
-     2. Aparecerá una lista de instancias en la zona de disponibilidad seleccionada. Selecciona la instancia deseada.
+     - Aparecerá una lista de instancias en la zona de disponibilidad seleccionada. Selecciona la instancia deseada.
 
-     3. Ingresa el nombre del dispositivo deseado en el cuadro de texto etiquetado como **Nombre del dispositivo**.
+     - Ingresa el nombre del dispositivo deseado en el cuadro de texto etiquetado como **Nombre del dispositivo**.
 
 6. Haz clic en el botón **Aplicar**.
 

@@ -23,31 +23,31 @@ Este artículo te guiará a través del proceso de agregar una nueva instancia a
 
 3. Configura los ajustes básicos para la instancia.
 
-     1. Introduce un nombre en el campo **Nombre** o acepta el predeterminado.
+     - Introduce un nombre en el campo **Nombre** o acepta el predeterminado.
 
-     2. Selecciona la región donde se implementará la instancia.
+     - Selecciona la región donde se implementará la instancia.
 
-     3. Selecciona la imagen que se usará para implementar la instancia.
+     - Selecciona la imagen que se usará para implementar la instancia.
 
-     4. Selecciona el tipo de instancia deseado en el menú emergente **Tipo de instancia**.
+     - Selecciona el tipo de instancia deseado en el menú emergente **Tipo de instancia**.
 
-     5. Selecciona el número mínimo y máximo deseado de instancias para implementar.
+     - Selecciona el número mínimo y máximo deseado de instancias para implementar.
 
      Haz clic en **Siguiente** para continuar.
 
 4. Configura los ajustes de seguridad para la instancia.
 
-     1. Introduce un nombre para el nuevo par de claves SSH en el campo **Nombre de la clave** o acepta el valor predeterminado.
+     - Introduce un nombre para el nuevo par de claves SSH en el campo **Nombre de la clave** o acepta el valor predeterminado.
 
-     2. Define un nuevo grupo de seguridad para la instancia o selecciona un conjunto predefinido.
+     - Define un nuevo grupo de seguridad para la instancia o selecciona un conjunto predefinido.
 
      Haz clic en **Siguiente** para continuar.
 
 5. Configura los ajustes de red para la instancia.
 
-     1. En el menú emergente **VPC**, selecciona la VPC donde se creará la instancia.
+     - En el menú emergente **VPC**, selecciona la VPC donde se creará la instancia.
 
-     2. En el menú emergente **Subred**, selecciona la subred donde se creará la instancia.
+     - En el menú emergente **Subred**, selecciona la subred donde se creará la instancia.
 
      Haz clic en **Siguiente** para continuar.
 
@@ -55,13 +55,13 @@ Este artículo te guiará a través del proceso de agregar una nueva instancia a
 
      En la página **Configuración del almacenamiento**, puedes elegir la configuración para el volumen raíz de la nueva instancia.
 
-     1. Ingresa el nombre del dispositivo deseado para el volumen en el campo **Nombre del dispositivo**, o acepta el valor predeterminado.
+     - Ingresa el nombre del dispositivo deseado para el volumen en el campo **Nombre del dispositivo**, o acepta el valor predeterminado.
 
-     2. Selecciona el tipo de rendimiento de volumen en el menú emergente **Tipo de volumen**.
+     - Selecciona el tipo de rendimiento de volumen en el menú emergente **Tipo de volumen**.
 
-     3. Introduce el tamaño del volumen en gigabytes \(GB\) en el campo **Tamaño**.
+     - Introduce el tamaño del volumen en gigabytes \(GB\) en el campo **Tamaño**.
 
-     4. Si es necesario, selecciona la casilla de verificación **Eliminar en el momento de terminar**.
+     - Si es necesario, selecciona la casilla de verificación **Eliminar en el momento de terminar**.
 
      En este paso, puedes agregar varios volúmenes con el botón **Añadir**. Al presionar este botón, aparecerá una sección de configuración de volumenes adicionales. Introduce los parámetros deseados en consecuencia. Al agregar varios volúmenes, el nombre del dispositivo debe ser único para cada volumen. Haz clic en el botón **Eliminar** para eliminar ese volumen de la lista.
 
@@ -73,9 +73,9 @@ Este artículo te guiará a través del proceso de agregar una nueva instancia a
 
      Se pueden adjuntar varios volúmenes a la nueva instancia haciendo clic en el botón **Añadir**. Asegúrate de que cada volumen tenga un nombre de dispositivo único.
 
-     1. Selecciona el volumen que deseas adjuntar en el menú emergente **Volúmenes**.
+     - Selecciona el volumen que deseas adjuntar en el menú emergente **Volúmenes**.
 
-     2. Ingresa el nombre del dispositivo deseado en el campo **Nombre del dispositivo**.
+     - Ingresa el nombre del dispositivo deseado en el campo **Nombre del dispositivo**.
 
      Al hacer clic en el botón **Eliminar**, se elimina ese volumen de la lista.
 
@@ -85,13 +85,13 @@ Este artículo te guiará a través del proceso de agregar una nueva instancia a
 
 9. Guarda la clave SSH privada proporcionada en la notificación.
 
-     1. Haz clic en el icono **campana** para extender el panel de notificaciones.
+     - Haz clic en el icono **campana** para extender el panel de notificaciones.
 
-     2. Identifica la notificación para tu instancia buscando el nombre de la instancia.
+     - Identifica la notificación para tu instancia buscando el nombre de la instancia.
 
-     3. Haz clic en el icono **Portapapeles** para copiar la clave SSH privada completa en tu portapapeles.
+     - Haz clic en el icono **Portapapeles** para copiar la clave SSH privada completa en tu portapapeles.
 
-     4. Guarda la clave SSH privada de forma segura.
+     - Guarda la clave SSH privada de forma segura.
 
 ## Resultados
 

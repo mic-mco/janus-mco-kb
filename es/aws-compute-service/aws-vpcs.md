@@ -7,8 +7,7 @@ Una nube privada virtual, denominada VPC, es una característica estándar de la
 
 Un entorno de AWS recién creado en TIGO MCO tendrá una VPC predeterminada. Puedes crear VPCs adicionales según sea necesario. También puede eliminar las VPCs. Si se eliminan todas las VPCs, será necesario crear al menos una VPC antes de agregar una nueva instancia.
 
-<hr>
-PELIGRO
+<hr>**PELIGRO**
 
 Eliminar una VPC eliminará todas las instancias, subredes, tablas de ruteo y grupos de seguridad en la VPC. Todos los volúmenes adjuntos a las instancias en la VPC eliminada y marcados como **Eliminar en el momento de terminar** se destruirán y se perderán todos los datos almacenados en esos volúmenes. Esto es permanente y no se puede deshacer.
 <hr>

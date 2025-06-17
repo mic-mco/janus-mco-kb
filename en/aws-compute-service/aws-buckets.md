@@ -3,7 +3,7 @@ title: "AWS: Buckets"
 slug: aws-buckets
 ---
 
-![A screenshot of the contents of an AWS bucket, with numbered dots indicating features of interest](/assets/aws-objectstorage-filelist-numdots-en.png)
+![A screenshot of the contents of an AWS bucket, with numbered dots indicating features of interest](/assets/aws-objectstorage-filelist-numdots-es.png)
 
 1. **List of objects**
 
@@ -25,7 +25,7 @@ slug: aws-buckets
 
     Each entry includes the name of the object or folder. Objects will also list their size, content type, and the date of last modification. Click on an entry to navigate to a page with full details and metadata for the object. Folders will be listed as a content type of `application/directory`. Click on a folder to display its contents.
 
-6. **Hidden Actions menu**
+6. **Actions menu**
 
     Each entry in the object list has a Hidden Actions menu. Click on the Hidden Actions menu to access a list of frequently-used operations for the object or folder.
 

@@ -20,9 +20,9 @@ This article will guide you through the process of adding a new VPC to an AWS en
 
 3. Enter the desired CIDR for the new VPC into the **CIDR** field, or accept the default.
 
-    The CIDR expresses the size and range of IPs to use for defining the new VPC. See [VPCs](aws-vpcs.md) for more details.
+    - The CIDR expresses the size and range of IPs to use for defining the new VPC. See [VPCs](aws-vpcs.md) for more details.
 
-    The system will present an error if an invalid CIDR is provided.
+    - The system will present an error if an invalid CIDR is provided.
 
 4. Click **Submit**.
 

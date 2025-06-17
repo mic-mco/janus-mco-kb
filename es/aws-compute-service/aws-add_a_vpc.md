@@ -20,7 +20,7 @@ Este artículo te guiará a través del proceso de agregar una nueva VPC a un en
 
 3. Ingresa el CIDR deseado para la nueva VPC en el campo **CIDR** o acepta el valor predeterminado.
 
-     El CIDR expresa el tamaño y el rango de direcciones IP que se usarán para definir la nueva VPC. Consulta [VPCs](aws-vpcs.md) para obtener más detalles.
+     El CIDR expresa el tamaño y el rango de direcciones IP que se usarán para definir la nueva VPC. Consulta la sección [VPCs](aws-vpcs.md) para obtener más detalles.
 
      El sistema presentará un error si se proporciona un CIDR no válido.
 

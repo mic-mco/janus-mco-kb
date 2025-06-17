@@ -25,9 +25,9 @@ Este artículo te guiará a través del proceso de agregar una nueva subred a tu
 
 5. Ingresa el rango de IP deseado, utilizando la notación CIDR, en el campo **CIDR**.
 
-     El CIDR de la subred debe existir completamente dentro del CIDR de la VPC y no debe superponerse al CIDR de ninguna otra subred dentro de la misma VPC. Consulta [Subredes](aws-subnetworks.md) para obtener más información.
+     - El CIDR de la subred debe existir completamente dentro del CIDR de la VPC y no debe superponerse al CIDR de ninguna otra subred dentro de la misma VPC. Consulta [Subredes](aws-subnetworks.md) para obtener más información.
 
-     El sistema presentará un error si se proporcionas un CIDR no válido.
+     - El sistema presentará un error si se proporcionas un CIDR no válido.
 
 6. Selecciona la zona de disponibilidad deseada en el menú emergente **Zona de disponibilidad** o acepta el valor predeterminado.
 

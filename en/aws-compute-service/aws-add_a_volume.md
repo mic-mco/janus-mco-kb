@@ -21,23 +21,23 @@ This article will guide you through the process of adding a new volume to an AWS
 
 4. Configure the new volume:
 
-    1. Enter a name into the **Name** field, or accept the default.
+    - Enter a name into the **Name** field, or accept the default.
 
-    2. Select the volume type to create.
+    - Select the volume type to create.
 
-    3. Enter the number of gigabytes to allocate for the new volume into the **Size** text box. The volume must be an integer.
+    - Enter the number of gigabytes to allocate for the new volume into the **Size** text box. The volume must be an integer.
 
-    4. Select the availability zone where the new volume should be created.
+    - Select the availability zone where the new volume should be created.
 
         The choice of availability zone will determine the instances to which the new volume may be attached.
 
 5. \(Optional\) You can automatically attach the new volume to an existing instance:
 
-    1. Click on **Attach volume to existing instance**.
+    - Click on **Attach volume to existing instance**.
 
-    2. A list of instances in the selected availability zone will appear. Select the desired instance.
+    - A list of instances in the selected availability zone will appear. Select the desired instance.
 
-    3. Enter the desired device name into the text box labeled **Device Name**.
+    - Enter the desired device name into the text box labeled **Device Name**.
 
 6. Click the **Submit** button.
 

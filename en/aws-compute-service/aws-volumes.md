@@ -3,7 +3,6 @@ title: "AWS: Volumes"
 slug: aws-volumes
 ---
 
-
 A volume on Amazon Web Services is where you can permanently store data for use with your instances. To an instance running on AWS, a volume is indistinguishable from a physical disk that is attached to the system. Volumes reside on infrastructure with a single availability zone, and can be attached only to instances within the same zone. The availability zone cannot be changed once a volume is provisioned.
 
 Every instance has one volume with a volume type of `Root`. This volume contains the operating system and often contains additional software. An instance without a root volume cannot be started.
@@ -19,4 +18,3 @@ Under some circumstances, a volume attached to an instance may be configured wit
 Volumes are listed under the **Compute** tab of your AWS environment, in the **Volumes** section.
 
 **Parent topic:**[AWS: Compute](aws-compute.md)
-

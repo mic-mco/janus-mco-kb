@@ -25,9 +25,9 @@ This article will guide you through the process of adding a new subnetwork to yo
 
 5. Enter the desired IP range, using CIDR notation, into the **CIDR** field.
 
-    The CIDR of the subnetwork must exist entirely within the CIDR of the VPC, and it must not overlap the CIDR of any other subnetwork within the same VPC. See [Subnetworks](aws-subnetworks.md) for more information.
+    - The CIDR of the subnetwork must exist entirely within the CIDR of the VPC, and it must not overlap the CIDR of any other subnetwork within the same VPC. See [Subnetworks](aws-subnetworks.md) for more information.
 
-    The system will present an error if an invalid CIDR is provided.
+    - The system will present an error if an invalid CIDR is provided.
 
 6. Select the desired availability zone from the **Availability zone** popup menu, or accept the default.
 
