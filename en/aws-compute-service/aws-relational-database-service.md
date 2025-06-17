@@ -11,7 +11,7 @@ Amazon's Relational Database Service provides convenient managed databases as a 
 
 To access RDS features, navigate to your desired AWS environment and click on the **Databases** tab.
 
-![Screenshot of the AWS databases tab, with numbered dots indicating features of interest](aws-rds-databases-list.png)
+![Screenshot of the AWS databases tab, with numbered dots indicating features of interest](/assets/aws-rds-databases-list.png)
 
 1. **List of database instances**
 

@@ -11,7 +11,7 @@ AWS Relational Database Service ofrece bases de datos administradas como un serv
 
 Para acceder a las funciones de RDS, se navega al entorno de AWS que deseas y haz clic en la pestaña **Bases de datos**.
 
-![Captura de pantalla de la pestaña de bases de datos de AWS, con puntos numerados que indican características de interés](aws-rds-databases-list.png)
+![Captura de pantalla de la pestaña de bases de datos de AWS, con puntos numerados que indican características de interés](/assets/aws-rds-databases-list.png)
 
 1. **Lista de instancias de base de datos**
 
